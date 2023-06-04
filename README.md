@@ -1,2 +1,3 @@
 # watchbro
-watch and control  with this API in the LAN
+watch and control computers with this API
+
